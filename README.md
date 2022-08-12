@@ -1,6 +1,11 @@
 # Movie-Box
 Movie Application 
 
+We're going to use the **OMDB** API as our source for movies. This API is free to use, and all we have to do is sign up and get an API key.
+
+#How to Get an API Key
+Go to http://www.omdbapi.com/apikey.aspx and fill out the form. You should receive an email
+
 # How to Set Up a React Project
 Ok with that out of the way, we can get into the good stuff – creating a React project. We're going to use create-react-app to get us off the ground quickly.
 
